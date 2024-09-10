@@ -1,1 +1,4 @@
-
+program biodata;
+begin 
+write ('Belajar Pascal untuk Dasar');
+end.
