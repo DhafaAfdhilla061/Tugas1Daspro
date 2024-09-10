@@ -9,6 +9,8 @@ begin
     write('Alamat: Jalan ');
     write(jalan);
     write(' No. ');
+    write(no);
+    write(' ');
     write(kota);
     write(' ');
     write(kodepos);
