@@ -6,13 +6,7 @@ begin
     write('No       : '); readln(no);
     write('Kota     : '); readln(kota);
     write('Kode Pos : '); readln(kodepos);
-    write('Alamat: Jalan ');
-    write(jalan);
-    write(' No. ');
-    write(no);
-    write(' ');
-    write(kota);
-    write(' ');
-    write(kodepos);
+    write('Alamat: Jalan ',jalan,' No. ',no,' ',kota,' ',kodepos);
+    
 
 end.
