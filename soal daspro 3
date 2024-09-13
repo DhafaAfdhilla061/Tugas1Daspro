@@ -7,14 +7,6 @@ begin
     write('Masukkan Nim anda : '); readln(nim);
     write('Masukkan Kom anda : '); readln(kom);
     write('Masukkan Alamat anda : '); readln(alamat);
-    write('Hallo, Nama saya ');
-    write(nama);
-    write(', NIM saya ');
-    write(nim);
-    write(', saya di kom ');
-    write(kom);
-    write(', alamat saya di ');
-    write(alamat);
-    write('. Salam Kenal Semua!');
-
+    write('Hallo, Nama saya ',nama,', NIM saya ',nim,', saya di kom ',kom,', alamat saya di ',alamat,'. Salam Kenal Semua!');
+    
 end.
